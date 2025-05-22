@@ -15,6 +15,6 @@ Linguagem Utilizada:
 Programa Utilizado:
 - IntelliJ IDEA.
 
-Instituição de Ensino:
+Instituições de Ensino:
 - Alura
 - Oracle/ONE
