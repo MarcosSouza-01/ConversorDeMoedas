@@ -1,6 +1,6 @@
 # Conversor-Moedas 
 
-![Texto do seu parágrafo]
+![Texto do seu parágrafo](https://github.com/user-attachments/assets/f77d311b-1dda-44f7-937c-eedd987cb798)
 
 <h4 aling = "center"> Projeto da Conversão de Moedas foi prosposto pela One/Alura para que possamos colocar em prática tudo o que aprendemos durante os cursos. Trazendo novos desafios e assim nós deixando cada vez mais preparado para o mercado de trabalho. </h4>
 Funcionalidades do projeto:
